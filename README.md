@@ -3,8 +3,8 @@
 📧phviana95@outlook.com
 <hr>
 <h1>My name is Pedro Viana</h1>
-<img src="https://github.com/pedroviana04/pedroviana04/blob/main/codeimg.jpg" alt="codeguy">
-![](https://github.com/pedroviana04/pedroviana04/blob/main/codeimg.jpg | width=100)
+<img src="https://github.com/pedroviana04/pedroviana04/blob/main/codeimg.jpg" alt="codeguy" width="100" height="100">
+
 <hr> 
  (HTML | CSS) ✔
 
@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[1]: http://www.github.com/your_contact_info
+
