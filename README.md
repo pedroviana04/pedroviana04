@@ -4,10 +4,11 @@
 <hr>
 <h1>My name is Pedro Viana</h1>
 <img src="https://github.com/pedroviana04/pedroviana04/blob/main/codeimg.jpg" alt="codeguy" width="480px" height="224px">
-
 <hr> 
- (HTML | CSS) ✔
-
+ (HTML |  Javascript | CSS) ✔
+<ul>
+ <li>🎓 Systems Development & Analysis Student </li>
+</ul>
 <!--
 **pedroviana04/pedroviana04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
