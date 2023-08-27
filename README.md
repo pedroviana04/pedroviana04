@@ -1,7 +1,7 @@
 ### Hi there ☺
 <hr>
 
-📧 phviana95@outlook.com
+![email](https://github.com/pedroviana04/pedroviana04/assets/108231276/5e2c3725-9a29-4059-839c-6b2b0c15bbe4) phviana95@outlook.com
 <hr>
 
 <h1>My name is Pedro Viana</h1>
