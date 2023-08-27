@@ -1,12 +1,11 @@
 <h1> Hi there 👋</h1>
-<hr>
-[!]
-[!📧phviana95@outlook.com] (mailto:phviana95@outlook.com)
-<hr>
+
+📧phviana95@outlook.com
+
 ## My name is Pedro Viana
-<img src="https://github.com/pedroviana04/pedroviana04/blob/main/codeimg.jpg" alt="codeguy" width="480px" height="224px" margin="200px 0px 0px 200px" align="right">
-<hr> 
- (HTML |  Javascript | CSS) ✔
+<img src="https://github.com/pedroviana04/pedroviana04/blob/main/codeimg.jpg" alt="codeguy" width="480px" height="224px" align="right">
+
+(HTML |  Javascript | CSS) ✔
  
 <ul>
  <li>🎓 Systems Development & Analysis Student </li>
