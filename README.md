@@ -1,8 +1,8 @@
-<h1> Hi there 👋</h1>
+<h1> </h1>
 
 📧phviana95@outlook.com
 
-## My name is Pedro Viana
+## 
 
 <img src="https://github.com/pedroviana04/pedroviana04/blob/main/coding.jpg" width="280" height="280" alt="coding" align="right">
 
