@@ -5,8 +5,9 @@ phviana95@outlook.com
 <hr>
 
 <h1>My name is Pedro Viana</h1>
-<img src="https://github.com/pedroviana04/pedroviana04/blob/main/codeimg.jpg" alt="codeguy">
-<hr>
+
+<hr>![codeimg](https://github.com/pedroviana04/pedroviana04/assets/108231276/ff33c5ea-149c-49d2-8c36-36ecb8d3df25)
+
 
  (HTML | CSS) 🚀
 
