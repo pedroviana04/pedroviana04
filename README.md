@@ -3,7 +3,7 @@
 📧<a href="phviana95@outlook.com">phviana95@outlook.com</a>
 <hr>
 <h1>My name is Pedro Viana</h1>
-<hr> <img src="https://github.com/pedroviana04/pedroviana04/blob/main/codeimg.jpg" alt="codeguy" width="480px" height="224px" margin="auto">
+<hr> <img src="https://github.com/pedroviana04/pedroviana04/blob/main/codeimg.jpg" alt="codeguy" width="480px" height="224px" margin="200px 0px">
 <hr> 
  (HTML |  Javascript | CSS) ✔
  
