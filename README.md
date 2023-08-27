@@ -4,6 +4,7 @@
 <hr>
 <h1>My name is Pedro Viana</h1>
 <img src="https://github.com/pedroviana04/pedroviana04/blob/main/codeimg.jpg" alt="codeguy">
+![](https://github.com/pedroviana04/pedroviana04/blob/main/codeimg.jpg | width=100)
 <hr> 
  (HTML | CSS) ✔
 
