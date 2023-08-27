@@ -1,5 +1,6 @@
 <h1> Hi there 👋</h1>
 <hr>
+[![email](https://github.com/pedroviana04/pedroviana04/assets/108231276/5e2c3725-9a29-4059-839c-6b2b0c15bbe4)](mailto:phviana95@outlook.com)
 📧<a href="phviana95@outlook.com">phviana95@outlook.com</a>
 <hr>
 ## My name is Pedro Viana
