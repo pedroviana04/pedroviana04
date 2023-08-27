@@ -1,15 +1,17 @@
-### Hi there 👋
+<h1> Hi there 👋</h1>
 <hr>
 📧<a href="phviana95@outlook.com">phviana95@outlook.com</a>
 <hr>
-<h1>My name is Pedro Viana</h1>
-<hr> <img src="https://github.com/pedroviana04/pedroviana04/blob/main/codeimg.jpg" alt="codeguy" width="480px" height="224px" margin="200px 0px 0px 200px" display="center">
+## My name is Pedro Viana
+<hr> <img src="https://github.com/pedroviana04/pedroviana04/blob/main/codeimg.jpg" alt="codeguy" width="480px" height="224px" margin="200px 0px 0px 200px" align="right">
 <hr> 
  (HTML |  Javascript | CSS) ✔
  
 <ul>
  <li>🎓 Systems Development & Analysis Student </li>
 </ul>
+
+
 <!--
 **pedroviana04/pedroviana04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
