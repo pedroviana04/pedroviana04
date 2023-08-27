@@ -5,7 +5,7 @@
 ## My name is Pedro Viana
 <img src="https://github.com/pedroviana04/pedroviana04/blob/main/coding-.png" alt="coding" width="260px" height="259" align="right">
 
-(HTML |  Javascript | CSS) ✔
+(HTML |  Javascript | CSS) 💻
  
 <ul>
  <li>🎓 Systems Development & Analysis Student </li>
