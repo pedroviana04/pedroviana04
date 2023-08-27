@@ -1,14 +1,10 @@
-### Hi there ☺
+### Hi there 👋
 <hr>
-
 📧phviana95@outlook.com
 <hr>
-
 <h1>My name is Pedro Viana</h1>
 <img src="https://github.com/pedroviana04/pedroviana04/blob/main/codeimg.jpg" alt="codeguy">
 <hr> 
-
-
  (HTML | CSS) ✔
 
 <!--
