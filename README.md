@@ -3,7 +3,7 @@
 📧phviana95@outlook.com
 
 ## My name is Pedro Viana
-<img src="https://github.com/pedroviana04/pedroviana04/blob/main/codeimg.jpg" alt="codeguy" width="480px" height="224px" align="right">
+<img src="[https://github.com/pedroviana04/pedroviana04/blob/main/codeimg.jpg](https://github.com/pedroviana04/pedroviana04/blob/main/coding-.png)" alt="coding-" width="480px" height="224px" align="right">
 
 (HTML |  Javascript | CSS) ✔
  
