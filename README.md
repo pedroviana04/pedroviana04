@@ -1,7 +1,7 @@
-### Hi there 👋
+### Hi there ☺
 <hr>
 
-phviana95@outlook.com
+📧 phviana95@outlook.com
 <hr>
 
 <h1>My name is Pedro Viana</h1>
@@ -9,7 +9,7 @@ phviana95@outlook.com
 <hr> 
 
 
- (HTML | CSS) 🚀
+ (HTML | CSS) ✔
 
 <!--
 **pedroviana04/pedroviana04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
