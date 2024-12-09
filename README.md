@@ -9,7 +9,7 @@
 (HTML |  Javascript | CSS) 📚
  
 <ul>
- <li>🎓 Systems Development & Analysis Student </li>
+ <li>🎓 Systems Development & Analysis </li>
 </ul>
 
 <div align="left">
